@@ -1,0 +1,91 @@
+D:\#Development\AsiaPacific\SMPOS\SMPOS\bin\SMPOS.dll.config
+D:\#Development\AsiaPacific\SMPOS\SMPOS\bin\SMPOS.dll
+D:\#Development\AsiaPacific\SMPOS\SMPOS\bin\SMPOS.pdb
+D:\#Development\AsiaPacific\SMPOS\SMPOS\bin\EasyLogger.dll
+D:\#Development\AsiaPacific\SMPOS\SMPOS\bin\itextsharp.dll
+D:\#Development\AsiaPacific\SMPOS\SMPOS\bin\Whizzo.dll
+D:\#Development\AsiaPacific\SMPOS\SMPOS\bin\Whizzo.Security.dll
+D:\#Development\AsiaPacific\SMPOS\SMPOS\obj\Debug\SMPOS.dll
+D:\#Development\AsiaPacific\SMPOS\SMPOS\obj\Debug\SMPOS.pdb
+D:\#Development\AsiaPacific\SMPOS\SMPOS\obj\Debug\SMClinic.csprojResolveAssemblyReference.cache
+D:\SMPOS\SMPOS\bin\SMPOS.dll.config
+D:\SMPOS\SMPOS\bin\SMPOS.dll
+D:\SMPOS\SMPOS\bin\SMPOS.pdb
+D:\SMPOS\SMPOS\bin\EasyLogger.dll
+D:\SMPOS\SMPOS\bin\itextsharp.dll
+D:\SMPOS\SMPOS\bin\Whizzo.dll
+D:\SMPOS\SMPOS\bin\Whizzo.Security.dll
+D:\SMPOS\SMPOS\obj\Debug\SMPOS.dll
+D:\SMPOS\SMPOS\obj\Debug\SMPOS.pdb
+D:\Working\Administrator\AsiaPacific\SMPOS\SMPOS\bin\SMPOS.dll.config
+D:\Working\Administrator\AsiaPacific\SMPOS\SMPOS\bin\SMPOS.dll
+D:\Working\Administrator\AsiaPacific\SMPOS\SMPOS\bin\SMPOS.pdb
+D:\Working\Administrator\AsiaPacific\SMPOS\SMPOS\bin\EasyLogger.dll
+D:\Working\Administrator\AsiaPacific\SMPOS\SMPOS\bin\itextsharp.dll
+D:\Working\Administrator\AsiaPacific\SMPOS\SMPOS\bin\Whizzo.dll
+D:\Working\Administrator\AsiaPacific\SMPOS\SMPOS\bin\Whizzo.Security.dll
+D:\Working\Administrator\AsiaPacific\SMPOS\SMPOS\obj\Debug\SMPOS.dll
+D:\Working\Administrator\AsiaPacific\SMPOS\SMPOS\obj\Debug\SMPOS.pdb
+D:\Working\Administrator\AsiaPacific\SMPOS\SMPOS\obj\Debug\SMClinic.csprojResolveAssemblyReference.cache
+D:\Working\SMPOS\SMPOS\bin\SMPOS.dll.config
+D:\Working\SMPOS\SMPOS\bin\SMPOS.dll
+D:\Working\SMPOS\SMPOS\bin\SMPOS.pdb
+D:\Working\SMPOS\SMPOS\bin\EasyLogger.dll
+D:\Working\SMPOS\SMPOS\bin\itextsharp.dll
+D:\Working\SMPOS\SMPOS\bin\Whizzo.dll
+D:\Working\SMPOS\SMPOS\bin\Whizzo.Security.dll
+D:\Working\SMPOS\SMPOS\obj\Debug\SMPOS.dll
+D:\Working\SMPOS\SMPOS\obj\Debug\SMPOS.pdb
+D:\Working\SMPOS\SMPOS\obj\Debug\SMClinic.csprojResolveAssemblyReference.cache
+D:\Working\SMClinic\SMClinic\bin\SMClinic.dll.config
+D:\Working\SMClinic\SMClinic\bin\SMClinic.dll
+D:\Working\SMClinic\SMClinic\bin\SMClinic.pdb
+D:\Working\SMClinic\SMClinic\bin\SMClinic.dll.CodeAnalysisLog.xml
+D:\Working\SMClinic\SMClinic\bin\SMClinic.dll.lastcodeanalysissucceeded
+D:\Working\SMClinic\SMClinic\obj\Debug\SMClinic.csprojResolveAssemblyReference.cache
+D:\Working\SMClinic\SMClinic\obj\Debug\SMClinic.dll
+D:\Working\SMClinic\SMClinic\obj\Debug\SMClinic.pdb
+D:\Working\Administrator\12022018\SMClinic\SMClinic\obj\Debug\RdlCompile.cache
+D:\Working\Administrator\12022018\SMClinic\SMClinic\obj\Debug\RdlCompile.compiled
+D:\Working\Administrator\12022018\SMClinic\SMClinic\bin\invoice.rdlc
+D:\Working\Administrator\12022018\SMClinic\SMClinic\bin\SMClinic.dll.config
+D:\Working\Administrator\12022018\SMClinic\SMClinic\bin\SMClinic.dll
+D:\Working\Administrator\12022018\SMClinic\SMClinic\bin\SMClinic.pdb
+D:\Working\Administrator\12022018\SMClinic\SMClinic\obj\Debug\SMClinic.dll
+D:\Working\Administrator\12022018\SMClinic\SMClinic\obj\Debug\SMClinic.pdb
+D:\Working\Asia Pacific\SMClinic\SMClinic\obj\Debug\RdlCompile.cache
+D:\Working\Asia Pacific\SMClinic\SMClinic\obj\Debug\RdlCompile.compiled
+D:\Working\Asia Pacific\SMClinic\SMClinic\bin\invoice.rdlc
+D:\Working\Asia Pacific\SMClinic\SMClinic\bin\SMClinic.dll.config
+D:\Working\Asia Pacific\SMClinic\SMClinic\bin\SMClinic.dll
+D:\Working\Asia Pacific\SMClinic\SMClinic\bin\SMClinic.pdb
+D:\Working\Asia Pacific\SMClinic\SMClinic\obj\Debug\SMClinic.dll
+D:\Working\Asia Pacific\SMClinic\SMClinic\obj\Debug\SMClinic.pdb
+D:\Working\Asia Pacific\SMClinic\SMClinic\obj\Debug\SMClinic.csprojResolveAssemblyReference.cache
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\ultrasoundinvoice.rdlc
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\invoice.rdlc
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\SMClinic.dll.config
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\SMClinic.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\SMClinic.pdb
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\obj\Debug\SMClinic.csprojResolveAssemblyReference.cache
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\obj\Debug\RdlCompile.cache
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\obj\Debug\RdlCompile.compiled
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\obj\Debug\SMClinic.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\obj\Debug\SMClinic.pdb
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\AjaxControlToolkit.pdb
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\ar\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\cs\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\de\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\es\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\fr\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\he\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\hi\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\it\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\ja\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\ko\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\nl\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\pt\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\ru\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Working\Thiri Sandar Hospital\SMClinic\SMClinic\bin\zh-CHT\AjaxControlToolkit.resources.dll

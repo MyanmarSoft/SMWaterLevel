@@ -1,0 +1,49 @@
+﻿		<li class="active treeview">
+                <a href="/default.aspx">
+                    <i class="fa fa-dashboard"></i><span>Dashboard</span>
+                </a>
+        </li>
+		<li class="treeview">
+          <a href="/Invoices/invoicelist_normal.aspx">
+            <i class="fa fa-file"></i> <span>Invoie List</span>
+          </a>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-home"></i> <span>Companies</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Companies/companylist.aspx"><i class="fa fa-dot-circle-o"></i> Company List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>Patients</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Patients/patientlist.aspx"><i class="fa fa-dot-circle-o"></i> Patient List</a></li>
+			<li><a href="/Patients/patientsticker.aspx"><i class="fa fa-dot-circle-o"></i> Patient Sticker</a></li>
+
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-bar-chart"></i> <span>Reports</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+		   <li><a href="/Reports/invoicereport.aspx"><i class="fa fa-dot-circle-o"></i> Invoice Report</a></li>
+          </ul>
+        </li>
+		
+ 
+ 
+ 

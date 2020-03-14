@@ -1,0 +1,137 @@
+﻿		<li class="active treeview">
+                <a href="default.aspx">
+                    <i class="fa fa-dashboard"></i><span>Dashboard</span>
+                </a>
+        </li>
+		<li class="treeview">
+          <a href="/Invoices/invoicelist.aspx">
+            <i class="fa fa-file"></i> <span>Invoie List</span>
+          </a>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-th"></i> <span>Inventory</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+		  <li><a href="../InventoryItems/InventoryItemlist.aspx"><i class="fa fa-dot-circle-o"></i> InventoryItem List</a> </li>
+		  <li><a href="../MedicalCheckups/medicalcheckuplist.aspx"><i class="fa fa-dot-circle-o"></i> Medical Checkup List</a></li>
+		  <li><a href="../LabTests/labtestlist.aspx"><i class="fa fa-dot-circle-o"></i> Lab Test List</a></li>
+		 <li><a href="../XRays/xraylist.aspx"><i class="fa fa-dot-circle-o"></i> X-Ray List</a></li>
+		 <li><a href="../Aesthetices/aestheticlist.aspx"><i class="fa fa-dot-circle-o"></i> Aesthetic List</a></li>
+		  <li><a href="../Others/otherlist.aspx"><i class="fa fa-dot-circle-o"></i> Other List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-home"></i> <span>Companies</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Companies/companylist.aspx"><i class="fa fa-dot-circle-o"></i> Company List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>Patients</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Patients/patientlist.aspx"><i class="fa fa-dot-circle-o"></i> Patient List</a></li>
+			<li><a href="/Patients/patientsticker.aspx"><i class="fa fa-dot-circle-o"></i> Patient Sticker</a></li>
+
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>Doctors</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Doctors/doctorlist.aspx"><i class="fa fa-dot-circle-o"></i> Doctor List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-stethoscope"></i> <span>X-Ray Report</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/XrayReports/xrayreportlist.aspx"><i class="fa fa-dot-circle-o"></i> X-Ray Report List</a></li>
+			<li><a href="/SubXrayReports/subxrayreportlist.aspx"><i class="fa fa-dot-circle-o"></i> Sub X-Ray Report List</a></li>
+
+          </ul>
+        </li>
+			<li class="treeview">
+          <a href="#">
+            <i class="fa fa-stethoscope"></i> <span>Ultrasound Report</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/UltrasoundReports/ultrasoundreportlist.aspx"><i class="fa fa-dot-circle-o"></i> Ultrasound Report List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-stethoscope"></i> <span>Laboratory Report</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/LaboratoryReports/laboratoryreportlist.aspx"><i class="fa fa-dot-circle-o"></i> Laboratory Report List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-stethoscope"></i> <span>Medical Assessment</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/MedicalAssessments/medicalAssessmentlist.aspx"><i class="fa fa-dot-circle-o"></i> Medical Assessment</a></li>
+			<li><a href="../OffShoreMedicalAssessments/offshoremedicalassessmentlist.aspx"><i class="fa fa-dot-circle-o"></i> Offshore Medical Assessment</a></li>
+			<li><a href="../MedicalReports/medicalreportlist.aspx"><i class="fa fa-dot-circle-o"></i> Medical Report</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-male"></i> <span>User Profiles</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+		   <li><a href="/UserProfiles/userprofilelist.aspx"><i class="fa fa-dot-circle-o"></i> User Profile List</a></li>
+		   <li><a href="../UserProfiles/changepassword.aspx"><i class="fa fa-dot-circle-o"></i> Change Password</a></li>
+           <li><a href="../UserRoles/userrolelist.aspx"><i class="fa fa-dot-circle-o"></i> User Role</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-bar-chart"></i> <span>Reports</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+		   <li><a href="/Reports/invoicereport.aspx"><i class="fa fa-dot-circle-o"></i> Invoice Report</a></li>
+          </ul>
+        </li>
+		
+ 
+ 
+ 

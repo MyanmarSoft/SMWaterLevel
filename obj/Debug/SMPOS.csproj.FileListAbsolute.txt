@@ -1,0 +1,10 @@
+D:\#Development\SMPOS\SMPOS\bin\SMPOS.dll.config
+D:\#Development\SMPOS\SMPOS\bin\SMPOS.dll
+D:\#Development\SMPOS\SMPOS\bin\SMPOS.pdb
+D:\#Development\SMPOS\SMPOS\bin\EasyLogger.dll
+D:\#Development\SMPOS\SMPOS\bin\itextsharp.dll
+D:\#Development\SMPOS\SMPOS\bin\Whizzo.dll
+D:\#Development\SMPOS\SMPOS\bin\Whizzo.Security.dll
+D:\#Development\SMPOS\SMPOS\obj\Debug\SMPOS.dll
+D:\#Development\SMPOS\SMPOS\obj\Debug\SMPOS.pdb
+D:\#Development\SMPOS\SMPOS\obj\Debug\SMPOS.csprojResolveAssemblyReference.cache

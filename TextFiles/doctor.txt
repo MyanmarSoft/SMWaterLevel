@@ -1,0 +1,61 @@
+﻿		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>Patients</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Patients/patientlist_normal.aspx"><i class="fa fa-dot-circle-o"></i> Patient List</a></li>
+          </ul>
+        </li>
+			<li class="treeview">
+          <a href="#">
+            <i class="fa fa-stethoscope"></i> <span>X-Ray Report</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/XrayReports/xrayreportlist_normal.aspx"><i class="fa fa-dot-circle-o"></i> X-Ray Report List</a></li>
+			<li><a href="/SubXrayReports/subxrayreportlist_normal.aspx"><i class="fa fa-dot-circle-o"></i> Sub X-Ray Report List</a></li>
+
+          </ul>
+        </li>
+			<li class="treeview">
+          <a href="#">
+            <i class="fa fa-stethoscope"></i> <span>Ultrasound Report</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/UltrasoundReports/ultrasoundreportlist_normal.aspx"><i class="fa fa-dot-circle-o"></i> Ultrasound Report List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-stethoscope"></i> <span>Laboratory Report</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/LaboratoryReports/laboratoryreportlist_normal.aspx"><i class="fa fa-dot-circle-o"></i> Laboratory Report List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-stethoscope"></i> <span>Medical Assessment</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/MedicalAssessments/medicalAssessmentlist.aspx"><i class="fa fa-dot-circle-o"></i> Medical Assessment</a></li>
+			<li><a href="../OffShoreMedicalAssessments/offshoremedicalassessmentlist.aspx"><i class="fa fa-dot-circle-o"></i> Offshore Medical Assessment</a></li>
+			<li><a href="../MedicalReports/medicalreportlist.aspx"><i class="fa fa-dot-circle-o"></i> Medical Report</a></li>
+          </ul>
+        </li>
+ 
+ 

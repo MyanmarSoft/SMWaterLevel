@@ -1,0 +1,25 @@
+﻿		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>X-Ray Report</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/XrayReports/xrayreportlist.aspx"><i class="fa fa-dot-circle-o"></i> X-Ray Report List</a></li>
+          			<li><a href="/SubXrayReports/subxrayreportlist.aspx"><i class="fa fa-dot-circle-o"></i> Sub X-Ray Report List</a></li>
+		  </ul>
+        </li>
+			<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>Ultrasound Report</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/UltrasoundReports/ultrasoundreportlist.aspx"><i class="fa fa-dot-circle-o"></i> Ultrasound Report List</a></li>
+          </ul>
+        </li>
+ 
+ 

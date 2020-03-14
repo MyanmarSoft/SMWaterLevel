@@ -1,0 +1,61 @@
+﻿
+		<li class="treeview">
+          <a href="/Invoices/invoicelist.aspx">
+            <i class="ion ion-bag"></i> <span>Invoie List</span>
+          </a>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-th"></i> <span>Inventory</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+		  <li><a href="../InventoryItems/InventoryItemlist.aspx"><i class="fa fa-dot-circle-o"></i> InventoryItem List</a></li>
+		  <li><a href="../MedicalCheckups/medicalcheckuplist.aspx"><i class="fa fa-dot-circle-o"></i> Medical Checkup List</a></li>
+		  <li><a href="../LabTests/labtestlist.aspx"><i class="fa fa-dot-circle-o"></i> Lab Test List</a></li>
+		 <li><a href="../XRays/xraylist.aspx"><i class="fa fa-dot-circle-o"></i> X-Ray List</a></li>
+		 <li><a href="../Aesthetices/aestheticlist.aspx"><i class="fa fa-dot-circle-o"></i> Aesthetic List</a></li>
+		  <li><a href="../Others/otherlist.aspx"><i class="fa fa-dot-circle-o"></i> Other List</a></li>
+		  	<li><a href="../ItemTypes/itemtypelist.aspx"><i class="fa fa-dot-circle-o"></i> Item Type List</a></li>
+			<li><a href="../ItemCategories/itemcategorylist.aspx"><i class="fa fa-dot-circle-o"></i> Item Category List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-home"></i> <span>Companies</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Companies/companylist.aspx"><i class="fa fa-dot-circle-o"></i> Company List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>Patients</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Patients/patientlist.aspx"><i class="fa fa-dot-circle-o"></i> Patient List</a></li>
+			<li><a href="/Patients/patientsticker.aspx"><i class="fa fa-dot-circle-o"></i> Patient Sticker</a></li>
+
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>Doctors</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Doctors/doctorlist.aspx"><i class="fa fa-dot-circle-o"></i> Doctor List</a></li>
+          </ul>
+        </li>
+ 
+ 

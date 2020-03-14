@@ -1,0 +1,122 @@
+﻿		<li class="active treeview">
+                <a href="/default.aspx">
+                    <i class="fa fa-dashboard"></i><span>Dashboard</span>
+                </a>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-map-signs"></i> <span>River</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Rivers/riverlist.aspx"><i class="fa fa-dot-circle-o"></i> River List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-map-signs"></i> <span>Dam</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Dams/damlist.aspx"><i class="fa fa-dot-circle-o"></i> Dam List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-area-chart"></i> <span>Water Level</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/WaterLevels/waterlevellist.aspx"><i class="fa fa-dot-circle-o"></i> Water Level List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-area-chart"></i> <span>Water Level Dam</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/WaterLevelsDam/waterlevellistdam.aspx"><i class="fa fa-dot-circle-o"></i> Water Level Dam List </a></li>
+          </ul>
+        </li>
+			<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>Customers</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Customers/customerlist.aspx"><i class="fa fa-dot-circle-o"></i> Customer List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>Member</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Members/memberlist.aspx"><i class="fa fa-dot-circle-o"></i> Member List</a></li>
+          </ul>
+        </li>
+		
+		
+		
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-male"></i> <span>User Profiles</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+		   <li><a href="/UserProfiles/userprofilelist.aspx"><i class="fa fa-dot-circle-o"></i> User Profile List</a></li>
+		   <li><a href="/UserProfiles/changepassword.aspx"><i class="fa fa-dot-circle-o"></i> Change Password</a></li>
+           <li><a href="/UserRoles/userrolelist.aspx"><i class="fa fa-dot-circle-o"></i> User Role</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-bar-chart"></i> <span>Reports</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+		   <li><a href="/Reports/invoicereport.aspx"><i class="fa fa-dot-circle-o"></i> Sales Report</a></li>
+		   <li><a href="/Reports/invoicereport.aspx"><i class="fa fa-dot-circle-o"></i> Purchases Report</a></li>
+		   <li><a href="/Reports/invoicereport.aspx"><i class="fa fa-dot-circle-o"></i> Inventory Item Report</a></li>
+          </ul>
+        </li>
+
+		 <li class="treeview">
+          <a href="#">
+            <i class="fa fa-cog"></i> <span>Setting</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li class="treeview">
+              <a href="#"><i class="fa fa-circle-o"></i> Chart Of Account
+                <span class="pull-right-container">
+                  <i class="fa fa-angle-left pull-right"></i>
+                </span>
+              </a>
+              <ul class="treeview-menu">
+			  	<li><a href="/ChartofAccounts/balancesheetlist.aspx"><i class="fa fa-circle-o"></i> Balance Sheet</a></li>
+                <li><a href="/ChartofAccounts/profitandlossstatementlist.aspx"><i class="fa fa-circle-o"></i> Profit and Loss Statement</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>

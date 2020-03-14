@@ -1,0 +1,6 @@
+D:\Working\ATT\SMAccount\SMAccount\bin\SMClinic.dll.config
+D:\Working\ATT\SMAccount\SMAccount\bin\SMClinic.dll
+D:\Working\ATT\SMAccount\SMAccount\bin\SMClinic.pdb
+D:\Working\ATT\SMAccount\SMAccount\obj\Release\SMAccount.csprojResolveAssemblyReference.cache
+D:\Working\ATT\SMAccount\SMAccount\obj\Release\SMClinic.dll
+D:\Working\ATT\SMAccount\SMAccount\obj\Release\SMClinic.pdb

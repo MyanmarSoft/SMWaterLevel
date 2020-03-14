@@ -1,0 +1,102 @@
+﻿using System;
+using System.Configuration;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using SMClinic.UserControls;
+using SMClinic.Entities;
+using SMClinic.DataAccess;
+
+namespace SMClinic.app
+{
+    public partial class homepage : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!Page.IsPostBack)
+            {
+                if (Request["q"] != null)
+                {
+                    if (Session["Login"].ToString() != null)
+                    {
+                        Session["Login"] = null;
+                        Session["Name"] = null;
+
+                        Response.Redirect(ConfigurationManager.AppSettings.GetValues("mainURL") + "signin.aspx");
+                    }
+                }
+
+                UserProfileTableAdapter userProfileTableAdapter = new UserProfileTableAdapter();
+                UserProfile userProfile = userProfileTableAdapter.GetUserProfileByID(Convert.ToInt32(Session["Login"]));
+                DataTable dtUserProfile = userProfileTableAdapter.GetDataByStatus("ACTIVE");
+               
+
+
+                UserRoleTableAdapter userRoleTableAdapter = new UserRoleTableAdapter();
+                DataTable dtUserRole = userRoleTableAdapter.GetDataByStatus("ACTIVE");
+
+                DataTable dtUserProfileList = userProfileTableAdapter.GetDataByStatus("ACTIVE");
+                ltlUsers.Text = dtUserProfileList.Rows.Count.ToString();
+
+                CompanyTableAdapter companyTableAdapter = new CompanyTableAdapter();
+                DataTable dtCompanyList = companyTableAdapter.GetDataByStatus("ACTIVE");
+                ltlCompany.Text = dtCompanyList.Rows.Count.ToString();
+
+                //if (userProfile.DepartmentID == 1)
+                //{
+                //    if (userProfile.UserRoleID == 1 || userProfile.UserRoleID == 2)
+                //    {
+                //        ltlUserProfile.Text = Session["Name"].ToString();
+                //        ltlUserRole.Text = Session["RoleName"].ToString();
+                //    }
+                //    else if (userProfile.UserRoleID == 3)
+                //    {
+                //        ltlUserProfile.Text = Session["Name"].ToString();
+                //        ltlUserRole.Text = Session["RoleName"].ToString();
+                //        Response.Redirect("~/Orders/orderroom.aspx");
+                //    }
+                //    else if (userProfile.UserRoleID == 4)
+                //    {
+                //        ltlUserProfile.Text = Session["Name"].ToString();
+                //        ltlUserRole.Text = Session["RoleName"].ToString();
+                //        Response.Redirect("~/Sales/saleorderroom.aspx");
+                //    }
+                //    else if (userProfile.UserRoleID == 5)
+                //    {
+                //        ltlUserProfile.Text = Session["Name"].ToString();
+                //        ltlUserRole.Text = Session["RoleName"].ToString();
+                //    }
+                    
+                //}
+                //else
+                //{
+                //    if (userProfile.UserRoleID == 1 || userProfile.UserRoleID == 2)
+                //    {
+                //        ltlUserProfile.Text = Session["Name"].ToString();
+                //        ltlUserRole.Text = Session["RoleName"].ToString();
+                //    }
+                //    else if (userProfile.UserRoleID == 3)
+                //    {
+                //        ltlUserProfile.Text = Session["Name"].ToString();
+                //        ltlUserRole.Text = Session["RoleName"].ToString();
+                //        Response.Redirect("~/Orders/ordertable.aspx");
+                //    }
+                //    else if (userProfile.UserRoleID == 4)
+                //    {
+                //        ltlUserProfile.Text = Session["Name"].ToString();
+                //        ltlUserRole.Text = Session["RoleName"].ToString();
+                //        Response.Redirect("~/Sales/saleordertable.aspx");
+                //    }
+                //    else if (userProfile.UserRoleID == 5)
+                //    {
+                //        ltlUserProfile.Text = Session["Name"].ToString();
+                //        ltlUserRole.Text = Session["RoleName"].ToString();
+                //    }
+                //}
+            }
+        }
+    }
+}

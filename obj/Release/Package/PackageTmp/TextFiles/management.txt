@@ -1,0 +1,172 @@
+﻿		<li class="active treeview">
+                <a href="/default.aspx">
+                    <i class="fa fa-dashboard"></i><span>Dashboard</span>
+                </a>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-users"></i> <span>Customers</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Customers/customerlist.aspx"><i class="fa fa-dot-circle-o"></i> Customer List</a></li>
+          </ul>
+        </li>
+		
+	
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-cubes"></i> <span>Projects</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Projects/projectlist.aspx"><i class="fa fa-dot-circle-o"></i> Project List</a></li>
+          </ul>
+        </li>
+		
+			<li class="treeview">
+          <a href="#">
+            <i class="fa fa-file"></i> <span>Quotation</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Ultrasounds/invoicelist.aspx"><i class="fa fa-dot-circle-o"></i> Quotation List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-file"></i> <span>Contract</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Invoices/companylist.aspx"><i class="fa fa-dot-circle-o"></i> Contract List</a></li>
+          </ul>
+        </li>
+		
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-shopping-basket"></i> <span>Sales</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Invoices/companylist.aspx"><i class="fa fa-dot-circle-o"></i> Sale Order List</a></li>
+			<li><a href="/Invoices/invoicelist.aspx"><i class="fa fa-dot-circle-o"></i> Sale Invoice List</a></li>
+			<li><a href="/Invoices/invoicelist.aspx"><i class="fa fa-dot-circle-o"></i> Sale Refund List</a></li>
+
+          </ul>
+        </li>
+		
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-cube"></i> <span>Inventory Items</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+		  <li><a href="../InventoryItems/inventoryitemlist.aspx"><i class="fa fa-dot-circle-o"></i> Inventory Item List</a> </li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-map-marker"></i> <span>Inventory Location</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/InventoryLocations/inventorylocationlist.aspx"><i class="fa fa-dot-circle-o"></i> Inventory Location List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-flask"></i> <span>Inventory Transfer</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Suppliers/supplierlist.aspx"><i class="fa fa-dot-circle-o"></i> Inventory Transfer</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-industry"></i> <span>Suppliers</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Suppliers/supplierlist.aspx"><i class="fa fa-dot-circle-o"></i> Supplier List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-shopping-cart"></i> <span>Purchases</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+			<li><a href="/Companies/companylist.aspx"><i class="fa fa-dot-circle-o"></i> Purchase Order List</a></li>
+			<li><a href="/Companies/companylist.aspx"><i class="fa fa-dot-circle-o"></i> Purchase Invoice List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-male"></i> <span>User Profiles</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+		   <li><a href="/UserProfiles/userprofilelist.aspx"><i class="fa fa-dot-circle-o"></i> User Profile List</a></li>
+		   <li><a href="/UserProfiles/changepassword.aspx"><i class="fa fa-dot-circle-o"></i> Change Password</a></li>
+           <li><a href="/UserRoles/userrolelist.aspx"><i class="fa fa-dot-circle-o"></i> User Role</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-bar-chart"></i> <span>Reports</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+		   <li><a href="/Reports/invoicereport.aspx"><i class="fa fa-dot-circle-o"></i> Sales Report</a></li>
+		   <li><a href="/Reports/invoicereport.aspx"><i class="fa fa-dot-circle-o"></i> Purchases Report</a></li>
+		   <li><a href="/Reports/invoicereport.aspx"><i class="fa fa-dot-circle-o"></i> Inventory Item Report</a></li>
+          </ul>
+        </li>
+
+		 <li class="treeview">
+          <a href="#">
+            <i class="fa fa-cog"></i> <span>Setting</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li class="treeview">
+              <a href="#"><i class="fa fa-circle-o"></i> Chart Of Account
+                <span class="pull-right-container">
+                  <i class="fa fa-angle-left pull-right"></i>
+                </span>
+              </a>
+              <ul class="treeview-menu">
+                <li><a href="/COAGroups/coagrouplist.aspx"><i class="fa fa-circle-o"></i> Group</a></li>
+				<li><a href="/COAAccounts/coaaccountlist.aspx"><i class="fa fa-circle-o"></i> Account</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>

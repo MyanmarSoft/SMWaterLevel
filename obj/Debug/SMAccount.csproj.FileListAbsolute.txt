@@ -1,0 +1,10 @@
+D:\Working\ATT\SMAccounting\SMClinic\obj\Debug\SMAccount.csprojResolveAssemblyReference.cache
+D:\Working\ATT\SMAccounting\SMClinic\obj\Debug\RdlCompile.cache
+D:\Working\ATT\SMAccounting\SMClinic\obj\Debug\RdlCompile.compiled
+D:\Working\ATT\SMAccounting\SMClinic\obj\Debug\SMClinic.dll
+D:\Working\ATT\SMAccount\SMAccount\bin\SMClinic.dll.config
+D:\Working\ATT\SMAccount\SMAccount\bin\SMClinic.dll
+D:\Working\ATT\SMAccount\SMAccount\bin\SMClinic.pdb
+D:\Working\ATT\SMAccount\SMAccount\obj\Debug\SMClinic.dll
+D:\Working\ATT\SMAccount\SMAccount\obj\Debug\SMClinic.pdb
+D:\Working\ATT\SMAccount\SMAccount\obj\Debug\SMAccount.csprojResolveAssemblyReference.cache
