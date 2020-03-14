@@ -7336,6 +7336,7 @@
     <Content Include="Dams\deletedam.aspx" />
     <Content Include="Dams\editdam.aspx" />
     <Content Include="Dams\newdam.aspx" />
+    <Content Include="TextFiles\test.html" />
     <Content Include="WaterLevelsDam\deletewaterleveldam.aspx" />
     <Content Include="WaterLevelsDam\editwaterleveldam.aspx" />
     <Content Include="WaterLevelsDam\newwaterleveldam.aspx" />
